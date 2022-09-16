@@ -5,8 +5,3 @@
 - Typescript
 - GraphQL
 - MongoDB
-
-## Dependencies
-
-- Mongoose
-- Type-GraphQL
