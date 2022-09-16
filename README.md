@@ -1,4 +1,4 @@
-# A simple API for management of Users
+# A simple GraphQL API using TypeGraphQL for management of Users
 
 ## Technologies:
 
